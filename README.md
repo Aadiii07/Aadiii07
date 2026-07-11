@@ -60,9 +60,19 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 
 ### 🔗 Connect With Me
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/aditya-mallewadi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:adityamallewadi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-mallewadi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:spidermanac07@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email" />
+  </a>
 </p>
 
 ### 📊 GitHub Stats
@@ -79,9 +89,13 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 
 ### 💭 Dev Quote
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+</p> -->
+
+<h3 align="center">
+  <i>"I don't chase what's next. I make it inevitable."</i>
+</h3>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Aadiii07">Aadiii07</a></i></p>
