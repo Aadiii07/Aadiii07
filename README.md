@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/Aadiii07">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00e5ff&fontSize=54&height=90&width=602&text=addy%2C%20obviously." alt="addy, obviously." />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&fontSize=54&height=90&width=602&text=addy%2C%20obviously." alt="addy, obviously." />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=625&height=44&lines=I%20don%27t%20chase%20what%27s%20next.%20I%20make%20it%20inevitable." alt="I don't chase what's next. I make it inevitable." />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=625&height=44&lines=I%20don%27t%20chase%20what%27s%20next.%20I%20make%20it%20inevitable." alt="I don't chase what's next. I make it inevitable." />
 </p>
 
 ### 🚀 About Me
@@ -77,14 +77,22 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aadiii07&show_icons=true&theme=tokyonight&title_color=00e5ff&icon_color=00e5ff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+</p> -->
+
+<p align="center">
+  <img height="165"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aadiii07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&icon_color=22D3EE&count_private=true"
+    alt="Aadiii07 GitHub Stats" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=00000000&color=00e5ff&line=00e5ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=E6EDF3&area=true&area_color=8B5CF6&hide_border=true"
+    alt="Aadiii07 Contribution Graph" />
 </p>
 
 ### 💭 Dev Quote
