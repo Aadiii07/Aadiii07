@@ -91,7 +91,7 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 
 <p align="center">
   <img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=E6EDF3&area=true&area_color=8B5CF6&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=00000000&color=8B5CF6&line=22D3EE&point=E6EDF3&area=true&area_color=8B5CF6&hide_border=true"
     alt="Aadiii07 Contribution Graph" />
 </p>
 
