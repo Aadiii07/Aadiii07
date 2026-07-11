@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Aadiii07">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&fontSize=54&height=90&width=602&text=addy%2C%20obviously." alt="addy, obviously." />
   </a>
@@ -6,6 +6,16 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=625&height=44&lines=I%20don%27t%20chase%20what%27s%20next.%20I%20make%20it%20inevitable." alt="I don't chase what's next. I make it inevitable." />
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/Aadiii07">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=EF444D&fontSize=54&height=90&width=602&text=addy%2C%20obviously." alt="addy, obviously." />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=EF444D&center=true&vCenter=true&width=625&height=44&lines=Turning%20coffee%20into%20clean%2C%20tested%20code!;i%20make%20ideas%20exist.%20the%20rest%20is%20lore." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -83,15 +93,21 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 
 <p align="center">
   <img height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aadiii07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&icon_color=22D3EE&count_private=true"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aadiii07&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF444D&text_color=24292F&icon_color=EF444D&count_private=true"
     alt="Aadiii07 GitHub Stats" />
 </p>
 
 ### 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=00000000&color=8B5CF6&line=22D3EE&point=E6EDF3&area=true&area_color=8B5CF6&hide_border=true"
+    alt="Aadiii07 Contribution Graph" />
+</p> -->
+
+<p align="center">
+  <img width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=00000000&color=EF444D&line=EF444D&point=24292F&area=true&area_color=FECACA&hide_border=true"
     alt="Aadiii07 Contribution Graph" />
 </p>
 
