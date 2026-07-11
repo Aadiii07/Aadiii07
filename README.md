@@ -92,9 +92,10 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 </p> -->
 
 <p align="center">
-  <img height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aadiii07&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF444D&text_color=24292F&icon_color=EF444D&count_private=true"
-    alt="Aadiii07 GitHub Stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=Aadiii07&hide_border=true&background=FFFFFF&ring=EF444D&fire=EF444D&currStreakNum=EF444D&sideNums=EF444D&currStreakLabel=24292F&sideLabels=24292F&dates=57606A"
+    alt="Aadiii07 GitHub Streak"
+  />
 </p>
 
 ### 📈 Contribution Graph
