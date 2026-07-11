@@ -101,9 +101,9 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p> -->
 
-<h3 align="center">
-  <i>"I don't chase what's next. I make it inevitable."</i>
-</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev quote" />
+</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Aadiii07">Aadiii07</a></i></p>
