@@ -80,13 +80,23 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-mallewadi/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityamallewadi@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" width="45" alt="Gmail" />
+  </a>
+</p>
+
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/aditya-mallewadi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:spidermanac07@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email" />
   </a>
-</p>
+</p> -->
 
 ### 📊 GitHub Stats
 
