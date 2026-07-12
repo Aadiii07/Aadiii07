@@ -86,6 +86,7 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
   <img src="./assets/contribution-market.svg" width="750" alt="Aadiii07 Contribution Market" />
 </p>
 
+---
 
 ### 💬 Dev Quote
 
@@ -93,6 +94,6 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev quote" />
 </p>
 
----
+
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Aadiii07">Aadiii07</a></i></p>
