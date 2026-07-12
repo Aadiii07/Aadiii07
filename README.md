@@ -75,6 +75,16 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
   <img src="./assets/contribution-market.svg" width="750" alt="Aadiii07 Contribution Market" />
 </p>
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Aadiii07&hide_border=true&background=00000000&ring=EF444D&fire=EF444D&currStreakNum=EF444D&sideNums=EF444D&currStreakLabel=24292F&sideLabels=24292F&dates=57606A"
+    alt="Aadiii07 GitHub Streak"
+  />
+</p>
+
 ### 💬 Dev Quote
 
 <p align="center">
