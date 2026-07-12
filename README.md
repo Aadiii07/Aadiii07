@@ -19,6 +19,8 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 - 💬 Ask me about **AI experiments, full-stack development & project ideas, Java, React, REST APIs & AI-integrated applications.**
 - 😄 Pronouns: **he/him**
 
+---
+
 ### 🛠 Tech Stack & Tools
 
 **Languages**
