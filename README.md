@@ -83,4 +83,4 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 
 ---
 
-<p align="center"><i>From <a href="https://github.com/Aadiii07">Aadiii07</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Aadiii07">Aadiii07</a></i></p>
