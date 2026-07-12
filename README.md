@@ -33,7 +33,7 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="54"/></a>
 </p>
 
----
+
 
 ### Backend & Frameworks
 
@@ -52,7 +52,7 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 <a href="https://maven.apache.org/" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/apachemaven/C71A36" title="Apache Maven" alt="Apache Maven" width="54"/></a>
 </p>
 
----
+
 
 ### Databases
 
@@ -63,7 +63,7 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 <a href="https://www.sqlite.org/" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" width="54"/></a>
 </p>
 
----
+
 
 ### Cloud & DevOps
 
@@ -74,7 +74,7 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 <a href="https://vercel.com/" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" width="54"/></a>
 </p>
 
----
+
 
 ### Developer Tools
 
@@ -88,33 +88,33 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 <a href="https://webpack.js.org" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="Webpack" alt="Webpack" width="54"/></a>
 </p>
 
-<--**Languages**
+<--**Languages**-->
 
-<p align="center">
+<--<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,py,html,css&theme=dark" alt="Java, JavaScript, Python, HTML5 and CSS3" />
-</p>
+</p>-->
 
-**Frameworks & Libraries**
+<--**Frameworks & Libraries**-->
 
-<p align="center">
+<--<p align="center">
   <img src="https://skillicons.dev/icons?i=react,spring,flask,tailwind,vite,pytorch,flutter,bootstrap,numpy&theme=dark" alt="React, Spring, Flask, Tailwind CSS, Vite, PyTorch, Flutter, Bootstrap and NumPy" />
-</p>
+</p>-->
 
-**Databases**
+<--**Databases**-->
 
-<p align="center">
+<--<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" alt="MySQL, MongoDB, Redis and SQLite" />
-</p>
+</p>-->
 
-**Cloud & DevOps**
+<--**Cloud & DevOps**-->
 
-<p align="center">
+<--<p align="center">
   <img src="https://skillicons.dev/icons?i=azure,gcp,githubactions,vercel&theme=dark" alt="Azure, Google Cloud, GitHub Actions and Vercel" />
-</p>
+</p>-->
 
-**Tools**
+<--**Tools**-->
 
-<p align="center">
+<--<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,webpack&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Figma, Postman and Webpack" />
 </p>-->
 
