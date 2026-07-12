@@ -88,35 +88,7 @@ I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. 
 <a href="https://webpack.js.org" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="Webpack" alt="Webpack" width="54"/></a>
 </p>
 
-<--**Languages**-->
 
-<--<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,py,html,css&theme=dark" alt="Java, JavaScript, Python, HTML5 and CSS3" />
-</p>-->
-
-<--**Frameworks & Libraries**-->
-
-<--<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,flask,tailwind,vite,pytorch,flutter,bootstrap,numpy&theme=dark" alt="React, Spring, Flask, Tailwind CSS, Vite, PyTorch, Flutter, Bootstrap and NumPy" />
-</p>-->
-
-<--**Databases**-->
-
-<--<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" alt="MySQL, MongoDB, Redis and SQLite" />
-</p>-->
-
-<--**Cloud & DevOps**-->
-
-<--<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,githubactions,vercel&theme=dark" alt="Azure, Google Cloud, GitHub Actions and Vercel" />
-</p>-->
-
-<--**Tools**-->
-
-<--<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,webpack&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Figma, Postman and Webpack" />
-</p>-->
 
 <--## 📊 GitHub Streak card-->
 
