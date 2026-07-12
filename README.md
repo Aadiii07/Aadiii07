@@ -5,6 +5,7 @@
 
 <div align="center">
 
+
 # addy, obviously.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF2D55&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+AI+%26+ML+Explorer;Building+things+that+feel+as+good+as+they+work.;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Turning+ideas+into+clean%2C+useful+products." alt="Typing SVG" />
