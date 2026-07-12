@@ -1,161 +1,207 @@
-### 🚀 About Me
+<!--
+  GitHub Profile README for Aadiii07
+  Premium red / black aesthetic
+-->
 
-I'm Aditya — a developer driven by curiosity and ideas that tend to escalate. I build full-stack applications, experiment with AI and computer vision, and enjoy turning rough concepts into real, working systems. Always learning, building, and figuring out how far an idea can go.
+<div align="center">
 
-🔭 &nbsp;I'm currently working on **an AI-powered real-time surveillance detection system.**  
-🌱 &nbsp;I'm currently learning **Model training, cloud AI deployment, Spring Boot &amp; computer vision.**  
-👯 &nbsp;I'm looking to collaborate on **AI, full-stack open-source projects with real-world impact, Java full-stack &amp; AI-integrated.**  
-🤔 &nbsp;I'm looking for help with **scaling real-time AI systems beyond the prototype and computer vision systems.**  
-💬 &nbsp;Ask me about **AI Experiments, Full-Stack Development &amp; Project Ideas, Java, React, REST APIs &amp; AI-integrated applications.**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **my “small project” ideas rarely stay small.**
+# addy, obviously.
 
-## 🛠️ Tech Stack & Tools
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF2D55&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+AI+%26+ML+Explorer;Building+things+that+feel+as+good+as+they+work.;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Turning+ideas+into+clean%2C+useful+products." alt="Typing SVG" />
 
-**Languages**
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,py,html,css&theme=dark" alt="Java, JavaScript, Python, HTML5 and CSS3" />
-</p>
+<a href="https://github.com/Aadiii07">
+  <img src="https://komarev.com/ghpvc/?username=Aadiii07&label=PROFILE%20VIEWS&color=ff2d55&style=for-the-badge" alt="Profile views" />
+</a>
+<a href="https://github.com/Aadiii07?tab=followers">
+  <img src="https://img.shields.io/github/followers/Aadiii07?label=FOLLOWERS&style=for-the-badge&color=111111&labelColor=ff2d55" alt="Followers" />
+</a>
 
-**Frameworks & Libraries**
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,flask,tailwind,vite,pytorch,flutter,bootstrap,numpy&theme=dark" alt="React, Spring, Flask, Tailwind CSS, Vite, PyTorch, Flutter, Bootstrap and NumPy" />
-</p>
+<br/>
 
-**Databases**
+## `> whoami`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" alt="MySQL, MongoDB, Redis and SQLite" />
-</p>
+```java
+public class Aditya {
+    String role = "Software Developer";
+    String degree = "B.E. — Class of 2026";
+    String[] interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Full-Stack Development",
+        "Computer Vision"
+    };
 
-**Cloud & DevOps**
+    String currentlyBuilding = "ideas that deserve a better interface";
+    String mindset = "learn. build. break. improve. repeat.";
+}
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,githubactions,vercel&theme=dark" alt="Azure, Google Cloud, GitHub Actions and Vercel" />
-</p>
+I build software around **AI, full-stack development, computer vision, and clean product experiences**.  
+My projects move between intelligent systems and polished interfaces — from **video anomaly detection with YOLO** to **AI-powered workspaces** and **network intelligence tools**.
 
-**Tools**
+I care about the details: the architecture behind the screen, the interaction on the screen, and whether the final product actually feels worth using.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,webpack&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Figma, Postman and Webpack" />
-</p>
+<br/>
 
-<br>
+## `> tech.stack`
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Aadiii07&hide_border=true&background=00000000&ring=EF444D&fire=EF444D&currStreakNum=EF444D&sideNums=EF444D&currStreakLabel=24292F&sideLabels=24292F&dates=57606A"
-    alt="Aadiii07 GitHub Streak"
-  />
-</p>
+<div align="center">
 
-### 🔗 Connect With Me
+### Languages
 
-<!-- <p align="left">
-  <a href="https://www.linkedin.com/in/aditya-mallewadi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:adityamallewadi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p> -->
+<a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-mallewadi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityamallewadi@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" width="45" alt="Gmail" />
-  </a>
-</p>
+### Backend & Frameworks
 
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-mallewadi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:spidermanac07@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email" />
-  </a>
-</p> -->
+<a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/></a>&nbsp;&nbsp;
+<a href="https://hibernate.org/" title="Hibernate"><img src="https://cdn.simpleicons.org/hibernate/FF2D55" width="48" height="48" alt="Hibernate"/></a>&nbsp;&nbsp;
+<a href="https://tomcat.apache.org/" title="Apache Tomcat"><img src="https://cdn.simpleicons.org/apachetomcat/FF2D55" width="48" height="48" alt="Apache Tomcat"/></a>&nbsp;&nbsp;
+<a href="https://swagger.io/" title="Swagger / OpenAPI"><img src="https://cdn.simpleicons.org/swagger/FF2D55" width="48" height="48" alt="Swagger OpenAPI"/></a>&nbsp;&nbsp;
+<a href="https://maven.apache.org/" title="Apache Maven"><img src="https://cdn.simpleicons.org/apachemaven/FF2D55" width="48" height="48" alt="Apache Maven"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a>&nbsp;&nbsp;
+<a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/></a>&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/></a>
 
-### 📊 GitHub Stats
+### Frontend
 
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aadiii07&show_icons=true&theme=tokyonight&title_color=00e5ff&icon_color=00e5ff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-</p> -->
+<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>&nbsp;&nbsp;
+<a href="https://vite.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/></a>
 
-<p align="center">
-  <img height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aadiii07&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF444D&text_color=24292F&icon_color=EF444D&count_private=true"
-    alt="Aadiii07 GitHub Stats" />
-</p>
+### Databases
 
-### 📈 Contribution Graph
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/></a>&nbsp;&nbsp;
+<a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/></a>&nbsp;&nbsp;
+<a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/></a>
 
-<!-- <p align="center">
-  <img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=00000000&color=8B5CF6&line=22D3EE&point=E6EDF3&area=true&area_color=8B5CF6&hide_border=true"
-    alt="Aadiii07 Contribution Graph" />
-</p> -->
+### Cloud & DevOps
 
-<!-- <p align="center">
-  <img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=00000000&color=EF444D&line=EF444D&point=24292F&area=true&area_color=FECACA&hide_border=true"
-    alt="Aadiii07 Contribution Graph" />
-</p> -->
+<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Microsoft Azure"/></a>&nbsp;&nbsp;
+<a href="https://cloud.google.com/" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud"/></a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/></a>&nbsp;&nbsp;
+<a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
 
-<p align="center">
-  <img
-    src="./assets/contribution-market.svg"
-    width="750"
-    alt="Aadiii07 Contribution Market"
-  />
-</p>
+### Developer Tools
 
-### 💭 Dev Quote
+<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>&nbsp;&nbsp;
+<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code"/></a>&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/></a>
 
-<!-- <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p> -->
+</div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev quote" />
-</p>
+<br/>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Aadiii07">Aadiii07</a></i></p>
+## `> contribution.market`
 
+<div align="center">
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=0d0d0d&color=ff2d55&line=ff2d55&point=ffffff&area=true&hide_border=true&custom_title=ADITYA'S%20CONTRIBUTION%20MARKET" width="100%" alt="Contribution Market Graph"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aadiii07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
-### 🔗 Connect With Me
+<br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-mallewadi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:adityamallewadi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## `> github.streak`
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aadiii07&show_icons=true&theme=tokyonight&title_color=00e5ff&icon_color=00e5ff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Aadiii07&theme=dark&hide_border=true&background=0D0D0D&ring=FF2D55&fire=FF2D55&currStreakLabel=FF2D55&sideLabels=FFFFFF&dates=8B8B8B&stroke=FF2D55" alt="GitHub Streak"/>
 
-### 📈 Contribution Graph
+</div>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii07&bg_color=00000000&color=00e5ff&line=00e5ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+<br/>
 
-### 💭 Dev Quote
+## `> github.stats`
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+<div align="center">
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Aadiii07">Aadiii07</a></i></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadiii07&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&icon_color=ff2d55&text_color=ffffff&rank_icon=github" alt="Aditya's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiii07&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&text_color=ffffff" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aadiii07&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+## `> featured.builds`
+
+<div align="center">
+
+<a href="https://github.com/Aadiii07">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadiii07&repo=Nexus-Insight&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&icon_color=ff2d55&text_color=ffffff" alt="Nexus Insight"/>
+</a>
+<a href="https://github.com/Aadiii07">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadiii07&repo=VIDEO_ANOMALY_DETECTION&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&icon_color=ff2d55&text_color=ffffff" alt="Video Anomaly Detection"/>
+</a>
+
+</div>
+
+> **Nexus Insight** — a network IP analysis interface focused on IP intelligence, geolocation, network data, risk context, and AI-assisted summaries.
+
+> **Video Anomaly Detection** — a computer vision system using custom-trained YOLO models to detect suspicious or anomalous events and trigger real-time alerts.
+
+<br/>
+
+## `> dev.quote`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+<br/>
+
+## `> connect.with.me`
+
+<div align="center">
+
+<a href="mailto:">
+  <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF2D55" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF2D55" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Aadiii07">
+  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF2D55" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+```text
+open to ideas • collaborations • conversations that turn into products
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff2d55,100:0d0d0d&height=120&section=footer" width="100%" alt="Footer"/>
+
+<sub>designed around code, curiosity, and an unreasonable attention to detail.</sub>
+
+<br/>
+
+**`Aadiii07`**
+
+</div>
