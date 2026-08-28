@@ -20,43 +20,58 @@ if TOKEN:
 
 
 def get_contributions():
-    url = f"https://api.github.com/users/{USERNAME}/events/public?per_page=100"
-
-    response = requests.get(url, headers=headers, timeout=30)
-    response.raise_for_status()
-
-    events = response.json()
-
     today = datetime.utcnow().date()
     start_date = today - timedelta(days=59)
 
-    contributions = {
-        start_date + timedelta(days=i): 0
-        for i in range(60)
+    query = """
+    query($login: String!, $from: DateTime!, $to: DateTime!) {
+      user(login: $login) {
+        contributionsCollection(from: $from, to: $to) {
+          contributionCalendar {
+            weeks {
+              contributionDays {
+                date
+                contributionCount
+              }
+            }
+          }
+        }
+      }
+    }
+    """
+
+    variables = {
+        "login": USERNAME,
+        "from": f"{start_date.isoformat()}T00:00:00Z",
+        "to": f"{(today + timedelta(days=1)).isoformat()}T00:00:00Z"
     }
 
-    for event in events:
-        created_at = datetime.strptime(
-            event["created_at"],
-            "%Y-%m-%dT%H:%M:%SZ"
-        ).date()
+    response = requests.post(
+        "https://api.github.com/graphql",
+        headers=headers,
+        json={"query": query, "variables": variables},
+        timeout=30
+    )
+    response.raise_for_status()
 
-        if created_at not in contributions:
-            continue
+    payload = response.json()
 
-        if event["type"] == "PushEvent":
-            commits = event.get("payload", {}).get("commits", [])
-            contributions[created_at] += max(len(commits), 1)
+    if payload.get("errors"):
+        raise RuntimeError(payload["errors"])
 
-        elif event["type"] in {
-            "PullRequestEvent",
-            "IssuesEvent",
-            "CreateEvent",
-            "PullRequestReviewEvent"
-        }:
-            contributions[created_at] += 1
+    contribution_days = {}
 
-    return contributions
+    for week in payload["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]:
+        for day in week["contributionDays"]:
+            contribution_days[datetime.strptime(day["date"], "%Y-%m-%d").date()] = day["contributionCount"]
+
+    return {
+        start_date + timedelta(days=index): contribution_days.get(
+            start_date + timedelta(days=index),
+            0
+        )
+        for index in range(60)
+    }
 
 
 def generate_candles(contributions):
